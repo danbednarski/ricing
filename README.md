@@ -12,7 +12,7 @@ With terminal and Urbit-powered guestbook from my website:
 
 Sadly I lost that domain name because the friend who bought it for me disappeared and it hasn't expired yet.
 
-Thread on /r/unixporn: https://www.reddit.com/r/unixporn/comments/1e5ehf0/oc_macos_urbit/
+Thread on /r/unixporn: https://www.reddit.com/r/unixporn/comments/1e5ehf0/oc_macos_urbit/  
 "Who owns the stars" anti-Urbit essay that inspired the wallpaper: https://distributedweb.care/posts/who-owns-the-stars/
 
 ## Arch
