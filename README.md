@@ -1,4 +1,4 @@
-Briefly explain what ricing is, include some links
+"Ricing" is making your OS more cool and fun. Examples include the desktop threads on most imageboards, and the /r/unixporn subreddit.
 
 ## MacOS
 
